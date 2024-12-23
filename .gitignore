@@ -1,0 +1,21 @@
+# Python files and directories
+venv/
+__pycache__/
+*.pyc
+*.pyo
+.venv/
+
+# Pytest cache
+.pytest_cache/
+
+# Node.js files and directories
+frontend/node_modules/
+
+# Database files
+*.db
+
+# CSV or other export files
+*.csv
+
+# Environment configuration
+.env
